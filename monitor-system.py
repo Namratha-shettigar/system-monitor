@@ -64,7 +64,7 @@ def generate_report(cpu, memory, disk_usage, processes, output_format='text'):
         
         #Storing disk usage for each mounted filesystem
         for disk in disk_usage:
-            report += f"\nDisk Usage - Mount Point: {disk['mount_point']}, Usage: {disk['percent']}% (Total: {disk['total']:.2f} GB, Used: {disk['used']:.2f} GB, Free: {disk['free']:.2f} GB)\n"
+            report += f"\nDisk Statistics: - Mount Point: {disk['mount_point']}, Usage: {disk['percent']}% (Total: {disk['total']:.2f} GB, Used: {disk['used']:.2f} GB, Free: {disk['free']:.2f} GB)\n"
         
         #Storing top 5 cpu utilization
         report += "\nTop 5 CPU-Consuming Processes:\n"
