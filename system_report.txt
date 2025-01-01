@@ -1,0 +1,92 @@
+CPU Usage: 9.2%
+
+Memory Usage: 34.8% (Total: 15.39 GB, Used: 4.46 GB, Free: 4.95 GB)
+
+Disk Usage - Mount Point: /, Usage: 87.6% (Total: 233.18 GB, Used: 193.74 GB, Free: 27.53 GB)
+
+Disk Usage - Mount Point: /snap/bare/5, Usage: 100.0% (Total: 0.00 GB, Used: 0.00 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/code/175, Usage: 100.0% (Total: 0.31 GB, Used: 0.31 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/code/176, Usage: 100.0% (Total: 0.31 GB, Used: 0.31 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/core/16928, Usage: 100.0% (Total: 0.10 GB, Used: 0.10 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/core/17200, Usage: 100.0% (Total: 0.10 GB, Used: 0.10 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/core18/2829, Usage: 100.0% (Total: 0.05 GB, Used: 0.05 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/core18/2846, Usage: 100.0% (Total: 0.05 GB, Used: 0.05 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/core20/2379, Usage: 100.0% (Total: 0.06 GB, Used: 0.06 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/core20/2434, Usage: 100.0% (Total: 0.06 GB, Used: 0.06 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/core22/1663, Usage: 100.0% (Total: 0.07 GB, Used: 0.07 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/core22/1722, Usage: 100.0% (Total: 0.07 GB, Used: 0.07 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/docker/2932, Usage: 100.0% (Total: 0.13 GB, Used: 0.13 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/docker/2963, Usage: 100.0% (Total: 0.14 GB, Used: 0.14 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/gnome-3-28-1804/194, Usage: 100.0% (Total: 0.16 GB, Used: 0.16 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/gnome-3-28-1804/198, Usage: 100.0% (Total: 0.16 GB, Used: 0.16 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/gnome-3-34-1804/90, Usage: 100.0% (Total: 0.21 GB, Used: 0.21 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/gnome-3-34-1804/93, Usage: 100.0% (Total: 0.21 GB, Used: 0.21 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/gnome-3-38-2004/140, Usage: 100.0% (Total: 0.34 GB, Used: 0.34 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/gnome-3-38-2004/143, Usage: 100.0% (Total: 0.34 GB, Used: 0.34 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/gnome-42-2204/172, Usage: 100.0% (Total: 0.49 GB, Used: 0.49 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/go/10743, Usage: 100.0% (Total: 0.06 GB, Used: 0.06 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/gnome-42-2204/176, Usage: 100.0% (Total: 0.49 GB, Used: 0.49 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/go/10748, Usage: 100.0% (Total: 0.06 GB, Used: 0.06 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/gtk-common-themes/1534, Usage: 100.0% (Total: 0.08 GB, Used: 0.08 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/gtk-common-themes/1535, Usage: 100.0% (Total: 0.09 GB, Used: 0.09 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/mobsfscan/64, Usage: 100.0% (Total: 0.02 GB, Used: 0.02 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/mobsfscan/69, Usage: 100.0% (Total: 0.02 GB, Used: 0.02 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/postman/295, Usage: 100.0% (Total: 0.18 GB, Used: 0.18 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/postman/297, Usage: 100.0% (Total: 0.18 GB, Used: 0.18 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/serve/170, Usage: 100.0% (Total: 0.00 GB, Used: 0.00 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/snap-store/1113, Usage: 100.0% (Total: 0.01 GB, Used: 0.01 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/snap-store/1216, Usage: 100.0% (Total: 0.01 GB, Used: 0.01 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/snapd/21759, Usage: 100.0% (Total: 0.04 GB, Used: 0.04 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/snapd/23258, Usage: 100.0% (Total: 0.04 GB, Used: 0.04 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/snapd-desktop-integration/247, Usage: 100.0% (Total: 0.00 GB, Used: 0.00 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/snapd-desktop-integration/253, Usage: 100.0% (Total: 0.00 GB, Used: 0.00 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/whatsdesk/28, Usage: 100.0% (Total: 0.08 GB, Used: 0.08 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/zoom-client/230, Usage: 100.0% (Total: 0.37 GB, Used: 0.37 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /snap/zoom-client/242, Usage: 100.0% (Total: 0.38 GB, Used: 0.38 GB, Free: 0.00 GB)
+
+Disk Usage - Mount Point: /boot/efi, Usage: 3.0% (Total: 0.50 GB, Used: 0.02 GB, Free: 0.48 GB)
+
+Top 5 CPU-Consuming Processes:
+  - PID: 8001, Name: code, CPU Usage: 27.6%
+  - PID: 8172, Name: code, CPU Usage: 12.6%
+  - PID: 6868, Name: chrome, CPU Usage: 12.4%
+  - PID: 3266, Name: gnome-shell, CPU Usage: 7.8%
+  - PID: 6974, Name: chrome, CPU Usage: 4.8%
